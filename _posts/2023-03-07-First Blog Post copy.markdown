@@ -37,10 +37,10 @@ Overall, the decentralized nature of cryptocurrency means that it is not control
 
 
 {% highlight ruby %}
-def hello(jean):
-return f'hello '{jean}'
+def hello(smit):
+return f'hello '{smit}'
 
 {% endhighlight %}
 
-[my inspiring image](/_posts/images/sample-image.jpeg)
+[my inspiring image](cypto.jpg)
 
